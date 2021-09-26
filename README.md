@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mete Arıkan, a CS freshman in Bilkent University
+I am Mete Arıkan, a CS freshman in Bilkent University in Turkey!
 - 🔭 Have some coding experience with Python.
 - 🌱 Currently learning PyQt5 , and also native Android app development with Java/Kotlin.
 
